@@ -1,4 +1,4 @@
-package com.aadhi.chucknorris.services;
+package com.aadhi.chucknorris.aadhichucknorrisjokes.services;
 
 import guru.springframework.norris.chuck.ChuckNorrisQuotes;
 import org.springframework.stereotype.Service;
